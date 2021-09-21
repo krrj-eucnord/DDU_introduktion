@@ -11,7 +11,7 @@ boolean circleOver = false;
 
 void setup(){
    size(1500, 800);
-   rectColor = color(0);
+   rectColor = color(100);
   rectHighlight = color(51);
   circleColor = color(255,55,70);
   circleHighlight = color(204);
