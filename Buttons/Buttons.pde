@@ -15,7 +15,7 @@ void setup(){
   rectHighlight = color(51);
   circleColor = color(255,55,70);
   circleHighlight = color(204);
-  baseColor = color(102);
+  baseColor = color(202);
   currentColor = baseColor;
   circleX = width/2+circleSize/2+10;
   circleY = height/2 + 200;
